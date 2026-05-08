@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe5,100:0d0d0d&height=200&section=header&text=BRAMHANANDA%20K%20L&fontSize=45&fontColor=00ffe5&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20SAP%20BTP&descAlignY=58&descSize=16&descColor=a0a0b0&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFE5&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bramha+%F0%9F%91%8B;Full+Stack+Developer+%40+HG+Infotech;Building+scalable+systems+with+Java+%26+React;Microservices+%7C+Kafka+%7C+Spring+Boot+%7C+RESTful+APIs;Always+learning.+Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFE5&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bramha+%F0%9F%91%8B;Software+Engineer+%40+HG+Infotech;Building+scalable+systems+with+Java+%26+React;Microservices+%7C+Kafka+%7C+Spring+Boot+%7C+RESTful+APIs;Always+learning.+Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
