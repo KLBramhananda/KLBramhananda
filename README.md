@@ -16,7 +16,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║    > whoami                                                      ║
-║      Bramhananda K L — Full Stack Developer                      ║
+║      Bramhananda K L — Software Engineer                      ║
 ║      Currently @ HG Infotech, Bengaluru 🇮🇳                     ║
 ║      Building: Fastays.com — Live Travel Booking Platform        ║
 ║      Stack: Java · Spring Boot · React · MongoDB · Kafka         ║
@@ -32,7 +32,7 @@
 
 ```yaml
 name       : Bramhananda K L
-role       : Full Stack Developer
+role       : Software Engineer
 company    : HG Infotech, Bengaluru
 experience : 1+ Year (Intern → Full-Time in 6 months)
 focus      : Scalable Microservices · Real-time Systems · Clean UI
@@ -84,7 +84,7 @@ status     : Open to collaborate on Full Stack Projects 🤝
 <tr>
 <td width="50%">
 
-### 🚀 Full Stack Developer
+### 🚀 Software Engineer
 **HG Infotech** · Bengaluru *(Feb 2025 – Present)*
 
 **Project: [Fastays.com](https://fastays.com)** — Live B2C Travel Booking Platform *(Flights, Hotels, Tours, Buses)*
@@ -99,7 +99,7 @@ status     : Open to collaborate on Full Stack Projects 🤝
 </td>
 <td width="50%">
 
-### 🌱 Developer Intern
+### 🌱 Junior Software Engineer
 **HG Infotech** · Bengaluru *(Jul 2024 – Feb 2025)*
 
 **Project: Procurement Service Platform**
@@ -156,7 +156,7 @@ status     : Open to collaborate on Full Stack Projects 🤝
 ## 🏆 Achievements & Certifications
 
 ```
-🏅  Intern → Full-Time Developer in 6 months @ HG Infotech
+🏅  Intern → Full-Time Software Engineer in 6 months @ HG Infotech
 🚀  Shipped microservices on a live production travel platform (Fastays.com)
 ⚙️  Reduced manual coordination by 35% through automation
 ☁️  AWS Cloud Computing — AWS Training & Certification
